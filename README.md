@@ -2,6 +2,10 @@
 
 WordPress自动弹出遮罩内容引流公众号私域流量插件。（**公众号：老蒋朋友圈**）
 
+------
+
+插件原出处和下载地址：[https://www.laojiang.me/6185.html](https://www.laojiang.me/6185.html)
+
 ## 功能特点
 
 - 自动弹出公众号和遮罩阻止用户访问，必须关注公众号验证。
@@ -51,7 +55,7 @@ A: 请检查是否已勾选"启用插件"选项，并确保已保存设置。
 
 * 欢迎加入插件和站长微信公众号：**老蒋朋友圈（公众号）**
 
-![](E:/WordPress%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91/LeWeChatFans/LeWeChatFans/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%88%E8%80%81%E8%92%8B%E6%9C%8B%E5%8F%8B%E5%9C%88%EF%BC%89.png)
+![](%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%88%E8%80%81%E8%92%8B%E6%9C%8B%E5%8F%8B%E5%9C%88%EF%BC%89.png)
 
 ## 版本历史
 
